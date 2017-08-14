@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE12-5D7C
+
+ Directory of C:\Users\SubbaReddy\Desktop\MyProject
+
+08/14/2017  03:13 PM                 0 test.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  14,963,871,744 bytes free
